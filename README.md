@@ -1,4 +1,4 @@
-## Hey, Welcome to my GitHub page!
+## Hey, Welcome to my GitHub page! 🎄
 
 ◆ Masters systems engineering graduate from the university of Warwick (1<sup>st</sup> class). <br>
 ◆ Interests include: data analysis, data-pipelines, automation, ML, robotics and electronics.<br>
