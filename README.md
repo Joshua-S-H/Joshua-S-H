@@ -2,7 +2,7 @@
 
 I'm masters systems engineering graduate from the university of Warwick. I have a strong interest in software engineering and data analytics! Any feedback would be greatly apreciated!
 
-Best way to contact me is though dropping me a message on [linkedine](https://www.linkedin.com/in/joshua-houghton-b1b9061a6/):
+Best way to contact me is though dropping me a message on [LinkedIn](https://www.linkedin.com/in/joshua-houghton-b1b9061a6/):
 
 <!--
 **Joshua-S-H/Joshua-S-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
