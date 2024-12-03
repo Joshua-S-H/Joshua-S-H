@@ -1,8 +1,8 @@
 ## Hey, Welcome to my GitHub page!
 
-I'm masters systems engineering graduate from the university of Warwick. 
-My interests include: Data Analysis, Datapipelines, Automation, ML, Robotics and Electronics.
-I'm currently pursuing roles in software engineering and data analytics, if you have an open role feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/joshua-houghton-b1b9061a6/).
+I'm masters systems engineering graduate from the university of Warwick. <br>
+My interests include: Data Analysis, Datapipelines, Automation, ML, Robotics and Electronics.<br>
+I'm currently pursuing roles in software engineering and data analytics, if you have an open role feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/joshua-houghton-b1b9061a6/).<br>
 Any feedback on any projects would be greatly apreciated.
 <!--
 **Joshua-S-H/Joshua-S-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
